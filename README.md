@@ -53,24 +53,6 @@ This repository contains the materials and schedule for the 5-day course on clou
 
 ---
 
-## Day 4 – Post-Docking Analysis and Pose Stability with PLACER
-
-### Theory
-- **Post-docking analysis:**
-  - How to interpret docking scores.
-  - Clustering poses, rescoring, and filtering false positives.
-- **Introduction to PLACER:**
-  - AI-based tool to predict pose stability.
-- **Best practices:**
-  - Computational reproducibility in cloud-based environments.
-
-### Hands-on (Google Colab)
-- Run PLACER to assess pose stability from GNINA/Uni-Dock outputs.
-- Identify and interpret stable vs. unstable docking poses.
-- Discuss downstream workflows: MD simulations, free energy calculations, etc.
-
----
-
 ## Day 5 – Virtual Screening: Filters, ADME, and Druglikeness
 
 ### Theory
@@ -87,6 +69,24 @@ This repository contains the materials and schedule for the 5-day course on clou
 - Apply physicochemical and ADME filters to a ligand set.
 - Prepare a docking-ready ligand library.
 - Docking using Uni-Dock or GNINA with the curated set.
+
+---
+
+## Day 5 – Post-Docking Analysis and Pose Stability with PLACER
+
+### Theory
+- **Post-docking analysis:**
+  - How to interpret docking scores.
+  - Clustering poses, rescoring, and filtering false positives.
+- **Introduction to PLACER:**
+  - AI-based tool to predict pose stability.
+- **Best practices:**
+  - Computational reproducibility in cloud-based environments.
+
+### Hands-on (Google Colab)
+- Run PLACER to assess pose stability from GNINA/Uni-Dock outputs.
+- Identify and interpret stable vs. unstable docking poses.
+- Discuss downstream workflows: MD simulations, free energy calculations, etc.
 
 ---
 
