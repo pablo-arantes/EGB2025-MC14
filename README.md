@@ -53,7 +53,7 @@ This repository contains the materials and schedule for the 5-day course on clou
 
 ---
 
-## Day 5 – Virtual Screening: Filters, ADME, and Druglikeness
+## Day 4 – Virtual Screening: Filters, ADME, and Druglikeness
 
 ### Theory
 - **Compound selection criteria:**
