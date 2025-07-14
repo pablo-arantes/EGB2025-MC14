@@ -94,8 +94,8 @@ This repository contains the materials and schedule for the 5-day course on clou
 - **Day 1:** Understand molecular docking + basic setup.
 - **Day 2:** Run AI-powered docking with GNINA.
 - **Day 3:** Scale up with GPU-accelerated Uni-Dock.
-- **Day 4:** Validate poses with PLACER (pose stability).
-- **Day 5:** Apply drug-likeness filters, create a ligand library, and finalize the virtual screening pipeline.
+- **Day 4:** Apply drug-likeness filters, create a ligand library, and finalize the virtual screening pipeline.
+- **Day 5:** Validate poses with PLACER (pose stability).
 
 ## Acknowledgments
 - We would like to thank the [GNINA](https://github.com/gnina/gnina) team for doing an excellent job open sourcing the software.
