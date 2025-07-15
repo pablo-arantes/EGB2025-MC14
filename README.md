@@ -37,6 +37,7 @@ This repository contains the materials and schedule for the 5-day course on clou
 - Explore different scoring functions (vina, cnnpose, cnnaffinity, etc.).
 - Visualize docking poses with Py3Dmol or NGLView.
 
+1) **Slides** [Slides](https://github.com/pablo-arantes/EGB2025-MC14/blob/main/EGB_MC14_Aula_2_GNINA.pdf)  - `Docking with GNINA: AI-Powered Docking`
 ---
 
 ## Day 3 – Uni-Dock: High-Performance Docking with GPU Acceleration
