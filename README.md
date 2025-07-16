@@ -53,7 +53,7 @@ This repository contains the materials and schedule for the 5-day course on clou
 - Perform docking of multiple ligands.
 - Compare speed and performance between Uni-Dock and GNINA.
 
-1) **Slides** [Slides](https://github.com/pablo-arantes/EGB2025-MC14/raw/main/EGB_MC14_Aula_2_GNINA.pdf)  - `Uni-Dock: High-Performance Docking with GPU Acceleration`
+1) **Slides** [Slides](https://github.com/pablo-arantes/EGB2025-MC14/raw/main/EGB_MC14_Aula3.pdf)  - `Uni-Dock: High-Performance Docking with GPU Acceleration`
 2) **Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/Uni_Dock_EGB.ipynb)  - `Docking with Uni-Dock`
 
 ---
