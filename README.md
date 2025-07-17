@@ -76,7 +76,7 @@ This repository contains the materials and schedule for the 5-day course on clou
 - Docking using Uni-Dock or GNINA with the curated set.
 
 1) **Slides** [Slides](https://github.com/pablo-arantes/EGB2025-MC14/raw/main/EGB_MC14_Aula_4_Virtual_Screening.pdf)  - `Virtual Screening: working with compound libraries`
-2) **Notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pablo-arantes/EGB2025-MC14/blob/main/EGB_Virtual_Screening_Aula4.ipynb)  - `Virtual Screening with Gnina`
+2) **Notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/EGB_Virtual_Screening_Aula4.ipynb)  - `Virtual Screening with Gnina`
 
 ---
 
