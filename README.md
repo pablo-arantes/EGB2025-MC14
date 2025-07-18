@@ -96,6 +96,9 @@ This repository contains the materials and schedule for the 5-day course on clou
 - Identify and interpret stable vs. unstable docking poses.
 - Discuss downstream workflows: MD simulations, free energy calculations, etc.
 
+1) **Slides** [Slides](https://github.com/pablo-arantes/EGB2025-MC14/raw/main/EGB_MC14_Aula5.pdf)  - `Post-Docking Analysis and Pose Stability`
+2) **Notebook** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/EGB2025-MC14/blob/main/GFN2_xTB_PLACER_AEV_PLIG_EGB.ipynb)  - `Docking with Uni-Dock and Post-Docking Analysis and Pose Stability`
+
 ---
 
 ## Summary of Course Flow
